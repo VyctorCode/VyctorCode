@@ -3,9 +3,7 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/vitor-oliveira-90bb19206/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](vyctoroliveira28@gmail.com)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](34-999095133)
+
 
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=1914aquinoo&show_icons=true&theme=cobalt)
