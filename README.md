@@ -24,6 +24,6 @@
     
 </div> <br>
 
-Sempre em busca de novos conhecimentos!
+Sempre em busca de novos conhecimentos! 
 
 
