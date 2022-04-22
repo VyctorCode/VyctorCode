@@ -6,7 +6,7 @@
 
 
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=1914aquinoo&show_icons=true&theme=cobalt)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VyctorCode&show_icons=true&theme=cobalt)
 
 ## Tecnologias que eu uso no dia a dia
 
@@ -22,7 +22,7 @@
     
 </div> <br>
 
-## Você poderá me conhecer melhor clicando <a href="https://1914aquinoo.github.io/mee-web2/" target="_blanck">AQUI!</a>
+## Você poderá me conhecer melhor clicando <a href="https://VyctorCode.github.io/mee-web2/" target="_blanck">AQUI!</a>
 
 Sempre em busca de novos conhecimentos! 
 
