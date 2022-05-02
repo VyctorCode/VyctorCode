@@ -23,7 +23,7 @@
 </div> <br>
 
 ## Você poderá me conhecer melhor clicando <a href="https://VyctorCode.github.io/mee-web2/" target="_blanck">AQUI!</a>.
-## Você poderá me conhecer melhor clicando <a href="https://vyctorcode.github.io/Tabelas/" target="_blanck">AQUI!</a>.
+## Você poderá Saber sobre oque eu sei sobre Tabelas clicando <a href="https://vyctorcode.github.io/Tabelas/" target="_blanck">AQUI!</a>.
 Lembrando que esse é um projeto que estou desenvolvendo com os conhecimentos que eu vou adiquirindo!
 
 Sempre em busca de novos conhecimentos! 
