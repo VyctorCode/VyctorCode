@@ -28,4 +28,6 @@ Lembrando que esse é um projeto que estou desenvolvendo com os conhecimentos qu
 
 Sempre em busca de novos conhecimentos! 
 
+<br><br>
+<img src="Sem título.png" alt="Um site com meu curriculo">
 
