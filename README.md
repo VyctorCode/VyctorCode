@@ -29,5 +29,10 @@ Lembrando que esse é um projeto que estou desenvolvendo com os conhecimentos qu
 Sempre em busca de novos conhecimentos! 
 
 <br><br>
-<img src="Sem título.png" alt="Um site com meu curriculo">
+## Vamo que vamos com os projetos
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHpbBV4k3kWEg/feedshare-shrink_2048_1536/0/1651598151823?e=2147483647&v=beta&t=kFVU5OHwypS3iCws5zZdukC8mWLdH_xpKB6F8G8Q2EM" alt="Um site com meu curriculo">
+<br>
+## Criando mais uma homePage de jogos!
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHW3u7Lj-HZEg/feedshare-shrink_800/0/1651598380907?e=2147483647&v=beta&t=8zGdf42j0Ks9fv0gjTknJ5W1E_fw7uN3ZBf2ANHuLH8" alt="Meu site de jogos">
+
 
