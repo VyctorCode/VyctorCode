@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Hi! I'm Victor 😉
-### Olá! Eu sou o Vitor 😉
+
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/vitor-oliveira-90bb19206/)
@@ -10,7 +10,7 @@
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VyctorCode&show_icons=true&theme=cobalt)
 
 ## Technologies I use on a daily basis
-## Tecnologias que eu uso no dia a dia
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,7 +18,7 @@
 </div> <br>
 
 ## Studying...
-## Cursando...
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
