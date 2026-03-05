@@ -77,3 +77,6 @@ A practice project focused on layout and design.
 My goal is to become a **professional software developer**, working with modern technologies and building useful applications.
 
 I’m currently looking for opportunities to gain experience and grow in the tech industry.
+
+
+
