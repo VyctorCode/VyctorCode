@@ -79,4 +79,6 @@ My goal is to become a **professional software developer**, working with modern 
 I’m currently looking for opportunities to gain experience and grow in the tech industry.
 
 
+## 🐍 Contribution Snake
 
+![Snake animation](https://github.com/VyctorCode/VyctorCode/blob/output/github-contribution-grid-snake.svg)
