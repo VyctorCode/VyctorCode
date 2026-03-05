@@ -1,55 +1,79 @@
-### Hi there 👋
+# 👨‍💻 Victor Oliveira
 
-### Hi! I'm Victor 😉
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-oliveira-90bb19206/)
-
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VyctorCode&show_icons=true&theme=cobalt)
+🚀 Software Engineering Student  
+💻 Front-End Developer in training  
+📚 Always learning new technologies
 
 ---
 
-## 🚀 Technologies I use on a daily basis
+## 🌎 Connect with me
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Oliveira-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-oliveira-90bb19206/)
 
 ---
 
-## 📚 Studying
+## 👨‍🎓 About Me
 
-<div style="display: inline_block"><br>
+I'm currently studying **Software Engineering** and developing projects to improve my programming skills.
 
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+My focus is learning:
 
-</div>
+- Web Development
+- Front-End Technologies
+- Software Development Principles
+
+I am always looking for new challenges and opportunities to grow as a developer.
+
+---
+
+## 🛠 Technologies
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
+
+## 📚 Currently Studying
+
+- JavaScript
+- Web Development
+- Software Engineering Concepts
+
+---
+
+## 📊 GitHub Stats
+
+![Victor stats](https://github-readme-stats.vercel.app/api?username=VyctorCode&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VyctorCode&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 My Website
 
-You can get to know me better by clicking below 👇
+You can see my website here:
 
-<a href="https://VyctorCode.github.io/mee-web2/" target="_blank">Click here to visit my website</a>
+👉 https://VyctorCode.github.io/mee-web2/
 
-Remembering that this is a project that I'm developing with the knowledge that I'm acquiring!
-
-Always looking for new knowledge!
+This project represents the knowledge I'm building during my studies.
 
 ---
 
-## 💻 Projects
+## 🚀 Projects
 
-### My Curriculum Website
-
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHpbBV4k3kWEg/feedshare-shrink_2048_1536/0/1651598151823?e=2147483647&v=beta&t=kFVU5OHwypS3iCws5zZdukC8mWLdH_xpKB6F8G8Q2EM" alt="Um site com meu curriculo">
-
----
+### Portfolio Website
+A personal website presenting my profile and skills.
 
 ### Gaming Homepage
+A practice project focused on layout and design.
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHW3u7Lj-HZEg/feedshare-shrink_800/0/1651598380907?e=2147483647&v=beta&t=8zGdf42j0Ks9fv0gjTknJ5W1E_fw7uN3ZBf2ANHuLH8" alt="Meu site de jogos">
+---
+
+## 🎯 Goals
+
+My goal is to become a **professional software developer**, working with modern technologies and building useful applications.
+
+I’m currently looking for opportunities to gain experience and grow in the tech industry.
